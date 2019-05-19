@@ -1,1 +1,1 @@
-Linux,mac,Solaris
+Linux,mac,Solaris,centos
